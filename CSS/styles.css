@@ -140,10 +140,11 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    padding-left: 20px;
 }
 
 .logo img{
-    height: 50px;
+    height: 80px;
     margin-right: 10px;
 }
 
@@ -209,8 +210,4 @@ nav a:hover{
     color: #fff;
     padding: 15px 10px;
     cursor: pointer;
-}
-
-.logo h2{
-
 }
